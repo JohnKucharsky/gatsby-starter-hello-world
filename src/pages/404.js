@@ -1,5 +1,4 @@
-import React from 'react'
-import Layout from '../components/Layout'
+import Layout from "../components/Layout"
 
 const NotFound = () => {
   return (
@@ -9,7 +8,7 @@ const NotFound = () => {
         <p>Sorry, that page doesn't exist (yet)!</p>
       </div>
     </Layout>
-  );
+  )
 }
- 
+
 export default NotFound
